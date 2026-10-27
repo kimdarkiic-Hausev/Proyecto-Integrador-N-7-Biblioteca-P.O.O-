@@ -1,1 +1,12 @@
+# 📂 Módulo de Código Fuente - TP Integrador
 
+## 📋 Consigna General
+Este directorio contiene la totalidad del código fuente en Java desarrollado para la aplicación de Gestión de Biblioteca. 
+
+La solución está estructurada modularmente en 4 subgrupos de trabajo independiente y un ejecutable de integración final:
+
+* **`subgrupo1_prestamo_socio/`** → Implementación de `Prestamo` y `Socio`.
+* **`subgrupo2_estudiante_docente/`** → Implementación de `Estudiante` y `Docente`.
+* **`subgrupo3_libro/`** → Implementación de `Libro`.
+* **`subgrupo4_biblioteca/`** → Implementación de la clase contenedora `Biblioteca`.
+* **`gestion_biblioteca/`** → Clase ejecutable principal de prueba e integración general.
