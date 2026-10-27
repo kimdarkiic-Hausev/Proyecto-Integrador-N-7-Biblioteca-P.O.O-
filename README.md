@@ -30,5 +30,6 @@ El desarrollo se organizó de manera colaborativa aplicando los principios de la
 
 
  **📁 Estructura del Repositorio**
+ .
+<img width="315" height="172" alt="image" src="https://github.com/user-attachments/assets/efd631c8-f6c7-4755-a469-8a498516350d" />
 
-├<img width="543" height="216" alt="image" src="https://github.com/user-attachments/assets/88e85211-9ae1-4f16-b02b-f9236c337149" />
