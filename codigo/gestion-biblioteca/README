@@ -1,1 +1,8 @@
+# 📂 Integración Final: Ejecutable GestionBiblioteca
 
+## 📋 Consigna de la etapa
+Desarrollar la clase ejecutable **`GestionBiblioteca`** invocando las clases implementadas por cada subgrupo para instanciar el sistema, cargar datos de prueba, realizar operaciones y emitir reportes.
+
+* **Responsables:** Equipo completo (6 integrantes).
+* **Entregables:**
+  * `GestionBiblioteca.java`
